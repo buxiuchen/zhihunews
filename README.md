@@ -2,7 +2,7 @@
 
 > A Vue.js project
 
-该项目根据开源项目https://github.com/icarusion/vue-book/tree/master/daily 自己编写的Vuede 的练习项目
+该项目根据开源项目https://github.com/icarusion/vue-book/tree/master/daily 自己编写的Vue.js的练习项目
 
 
 ## Build Setup
